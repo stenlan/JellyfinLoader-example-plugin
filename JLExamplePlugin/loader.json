@@ -1,0 +1,6 @@
+{
+  "loadContext": "Plugin",
+  "loadTiming": "Early",
+  "assemblies": [],
+  "dependencies": []
+}

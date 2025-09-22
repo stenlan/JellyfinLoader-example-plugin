@@ -1,0 +1,17 @@
+{
+  "category": "",
+  "changelog": "",
+  "description": "",
+  "guid": "abd1fca1-2c37-4cf3-9bbe-d91315004473",
+  "name": "JellyfinLoader Example Plugin",
+  "overview": "",
+  "owner": "",
+  "targetAbi": "",
+  "timestamp": "0001-01-01T00:00:00.0000000Z",
+  "version": "1.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "assemblies": [
+    "JellyfinLoaderStub.dll"
+  ]
+}
